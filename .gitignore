@@ -1,3 +1,4 @@
 *.pyc
 drift_api.egg-info/
 dist/
+.nazar-test
